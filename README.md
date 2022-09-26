@@ -1,4 +1,10 @@
- فتحي محمد حميد الحداد
+UMS  
+
+IT 
+
+ 4 Year 
+ 
+فتحي محمد حميد الحداد
  
 Fathi_FORM
  
@@ -6,7 +12,7 @@ My Name is : Fathi Mohammed Hamed AL-hadadd
 
 ( Group B2 ) 
 
-4 Year 
+
 
 HomeWorke (upload Form_python to GitHup)
 
